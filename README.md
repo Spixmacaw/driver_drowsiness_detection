@@ -37,17 +37,18 @@ Haar Feature Selection:
 
 ![image](https://github.com/dileepsahoo/driver_drowsiness_detection/assets/140527606/13bf80fd-40aa-4f93-a59e-99b28135a0f3)
 
-Cascade Classifier 
-   
-![image](https://github.com/dileepsahoo/driver_drowsiness_detection/assets/140527606/df47c082-15d4-40ed-b60c-ec0c2225f44a)
+Cascade Classifier:
 
+![image](https://github.com/dileepsahoo/driver_drowsiness_detection/assets/140527606/022fdf81-59ba-43cf-9af9-d47b20d7c671)
+
+   
 activity Diagram:
 
 ![image](https://github.com/dileepsahoo/driver_drowsiness_detection/assets/140527606/4442a049-19f9-4f56-8822-74b6dbef91c2)
 
-MODEL OUTPUT:
+model output:
 
-  ![image](https://github.com/dileepsahoo/driver_drowsiness_detection/assets/140527606/d6126bdf-5505-46f6-b3d7-b2062d577fcd)
+![image](https://github.com/dileepsahoo/driver_drowsiness_detection/assets/140527606/d6126bdf-5505-46f6-b3d7-b2062d577fcd)
 
 Camera capture the blinking of eyes  then  Drowsiness Alert Message in audio.Based upon the conditions of activities are connected,
 accurecy <5 alert (or) >5 no alert  on blink rate.
@@ -64,4 +65,6 @@ while driving.
 4.The system works well even in case of drivers wearing spectacles and even under low light conditions if the camera delivers better output.
 
 
+![dileepsahoo's Stats](https://github-readme-stats.vercel.app/api?username=dileepsahoo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![dileepsahoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dileepsahoo&theme=vue-dark&hide_border=true)
 
+![dileepsahoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dileepsahoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
